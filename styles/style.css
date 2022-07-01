@@ -118,6 +118,9 @@ body {
          column-gap: 20px;
   }
   .container .section1 {
+    background-image: url("../images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top right 120px;
     grid-column: 1/span 2;
   }
   .container .section2 {
